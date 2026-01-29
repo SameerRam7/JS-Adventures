@@ -41,4 +41,7 @@ console.log(url.includes('sam')) //true
 const display = new String('Sam-R-07');
 console.log(display.split('-'))
 
+const str = "Sameer"; //[ 'Sam', 'R', '07' ]
+console.log(str.split("")); //[ 'S', 'a', 'm', 'e', 'e', 'r' ]
+
 
